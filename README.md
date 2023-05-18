@@ -1,5 +1,5 @@
-### Olá!!! Esse é um perfil de um aventureiro em Python, eu sou Júlio C. Franco
-## Aqui vou anexar minhas experiencias, testes com a linguagem python e web.👋
+# Olá!!! Esse é um perfil de um aventureiro, dedicado em aprofundar na linguagem Python, eu sou *Júlio C. Franco*
+## Aqui vou anexar minhas experiências, testes com a linguagem python e web.🥳
 
 <!--
 **jcfprogramador/jcfprogramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
             
           
 
-- 🔭 I’m currently working on ...
+- 🔭 Atualmente trabalho com testes na area eletronica, englobando homologação de hardware e firmware, onde sempre que possível e necessário elaboro algumas ferramentas para automatizar, facilitar os testes utilizando a linguagem python, mas já construi pequenas aplicações em C# também, na maioria das vezes pequenos softwares para integrar/automatizar jig de testes ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
