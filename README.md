@@ -21,10 +21,10 @@
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain-wordmark.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
-                    
+  ![snake gif](https://github.com/jcfprogramador/jcfprogramador/blob/output/github-contribution-grid-snake.svg)                  
 </div>
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
-<br>         
+
+      
 
 - 🔭 Atualmente trabalho com testes na area eletronica, englobando homologação de hardware e firmware, onde sempre que possível e necessário elaboro algumas ferramentas para automatizar, facilitar os testes utilizando a linguagem python, mas já construi pequenas aplicações em C# também, na maioria das vezes pequenos softwares para integrar/automatizar jig de testes ...
 
