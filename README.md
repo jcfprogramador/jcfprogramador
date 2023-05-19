@@ -1,7 +1,7 @@
 # Olá!!! Meu nome é *Júlio C. Franco*
 ### Bem vindo ao meu perfil do github
 - 🌱 Há alguns anos venho me aventurando na linguagem Python, aproveito cada oportunidade para experimentar novas tecnologias, aprender coisas novas, estou sempre estudando, aprimorando meus conhecimentos em programação. Programar é minha paixão, meu hobby e Python é minha linguagem preferida, uma ferramenta poderosa que não para de crescer, que me desperta curiosidade nas possibilidades do que programar. 
-- 👯 Adoro novos desafios, aberto a aprender e compartilhar meus conhecimentos, gosto de trabalhar em equipe, sou um colaborador dedicado, sempre disposto a ajudar quando necessário.
+- 👯 Adoro novos desafios, aberto a aprender e compartilhar meus conhecimentos, gosto de trabalhar em equipe, sou um colaborador dedicado, sempre disposto a ajudar.
 
 ### Aqui vou anexar minhas experiências, testes com a linguagem python e web.🥳
 
