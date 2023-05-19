@@ -6,8 +6,8 @@
 ### Aqui vou anexar minhas experiências, testes com a linguagem python e web.🥳
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcfprogramador&theme=tokyonight&show_icons=true&include_all_commits=tru&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcfprogramador&layout=compact&langs_count=16&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcfprogramador&theme=tokyonight&show_icons=true&include_all_commits=tru&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcfprogramador&layout=compact&langs_count=16&theme=aura">
 </div>
 
 <div style="display: inline_block"><br> 
@@ -23,7 +23,8 @@
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
                     
 </div>
-<i class="devicon-django-plain"></i><br>         
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+<br>         
 
 - 🔭 Atualmente trabalho com testes na area eletronica, englobando homologação de hardware e firmware, onde sempre que possível e necessário elaboro algumas ferramentas para automatizar, facilitar os testes utilizando a linguagem python, mas já construi pequenas aplicações em C# também, na maioria das vezes pequenos softwares para integrar/automatizar jig de testes ...
 
