@@ -1,7 +1,7 @@
 # Olá!!! Meu nome é *Júlio C. Franco*
 ### Bem vindo ao meu perfil do github
-###Há alguns anos venho me aventurando na linguagem Python, aproveito cada oportunidade para experimentar novas tecnologias, aprender coisas novas, estou sempre estudando, aprimorando meus conhecimentos em programação. Programar é minha paixão, meu hobby e Python é minha linguagem preferida, uma ferramenta poderosa que não para de crescer, que me desperta curiosidade nas possibilidades do que programar. 
-###Adoro novos desafios, aberto a aprender e compartilhar meus conhecimentos, gosto de trabalhar em equipe, sou um colaborador dedicado, sempre disposto a ajudar.
+### Há alguns anos venho me aventurando na linguagem Python, aproveito cada oportunidade para testar novas tecnologias, aprender coisas novas, estou sempre estudando, aprimorando meus conhecimentos em programação. Programar é minha paixão, meu hobby e Python é minha linguagem favorita, uma ferramenta poderosa que não para de crescer, que me desperta curiosidade, um mundo de possibilidades na programação. 
+### Adoro novos desafios, aberto a aprender e compartilhar meus conhecimentos, gosto de trabalhar em equipe, sou um colaborador dedicado, sempre disposto a ajudar.
 
 ### Aqui vou anexar minhas experiências, testes com a linguagem python e web.
 
@@ -31,5 +31,5 @@
 </div>
       
 
-- 🔭 Atualmente trabalho com testes na area eletronica, englobando homologação de hardware e firmware, onde sempre que possível e necessário elaboro algumas ferramentas para automatizar, facilitar os testes utilizando a linguagem python, já construi pequenas aplicações em C# também, na maioria das vezes pequenos softwares para integrar/automatizar jig de testes ...
+- 🔭 Atualmente trabalho com testes na area eletrônica, englobando homologação de hardware e firmware, onde sempre que possível elaboro algumas ferramentas para automatizar, facilitar os testes utilizando a linguagem python, já construi softwares de logs entre outras alicações, na maioria das vezes pequenos softwares para integrar/automatizar jig de testes ...
 
