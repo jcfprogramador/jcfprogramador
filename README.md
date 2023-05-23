@@ -13,12 +13,13 @@
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+    <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">   
 </div>
   
@@ -31,5 +32,5 @@
 </div>
       
 
-- 🔭 Atualmente trabalho com testes na area eletrônica, englobando homologação de hardware e firmware, onde sempre que possível elaboro algumas ferramentas para automatizar, facilitar os testes utilizando a linguagem python, já construi softwares de logs entre outras alicações, na maioria das vezes pequenos softwares para integrar/automatizar jig de testes ...
+- 🔭 Atualmente trabalho com testes na area eletrônica, englobando homologação de hardware e firmware, onde sempre que possível elaboro algumas ferramentas para automatizar, facilitar os testes utilizando a linguagem python, já construi softwares de logs entre outras aplicações, na maioria das vezes pequenos softwares para integrar/automatizar jig de testes ...
 
